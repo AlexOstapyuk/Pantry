@@ -317,7 +317,7 @@ export default function Home() {
           alignItems={'center'}
         >
           <Typography variant={'h2'} color={'#333'} textAlign={'center'}>
-            Inventory Items
+            All Items
           </Typography>
         </Box>
         
